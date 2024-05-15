@@ -3,26 +3,6 @@
 #include <vector>
 #include <iostream>
 
-/*class Vehicle
-{
-public:
-	Vehicle(const int number, std::string& name);
-
-	std::string getName() const { return name; }
-	int getNumber() const { return number; }
-
-
-
-private: 
-	std::string name;
-	int number;
-
-
-};
-
-class Proj() {}; */
-
-
 class Vehicle
 {
 protected:
